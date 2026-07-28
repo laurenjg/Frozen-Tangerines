@@ -1,4 +1,4 @@
-Digital zine documenting my Frozen tangerined project
+Digital zine documenting the thoughts, research and process behind Frozen Tangerines
 
 \*to be turned into a project zine library
 
