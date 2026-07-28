@@ -1,4 +1,7 @@
-Digital zine documenting the thoughts, research and process behind Frozen Tangerines
+<img width="400" height="250" alt="Screenshot 2026-07-28 at 21 21 18" src="https://github.com/user-attachments/assets/013747e0-e7bf-41ea-a254-b0fa7e2adfa8" />
+<br>
+<p> </p>
+Digital zine documenting the research & process behind Frozen Tangerines
 
 \*to be turned into a project zine library
 
